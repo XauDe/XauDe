@@ -1,4 +1,4 @@
-### Hi there 👋
+###     Hi there 👋
 
 <!--
 **XauDe/XauDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Competitive problem solver - FullStack developer with JavaScript technologies. I am currently dabbling in to web3 and web-app security. Outside programming, I am also passionate about productivity and mental health
+
+Check out my portfolio at ...
+You can contact me at xander.flagging@gmail.com
+Read my blog :
+
